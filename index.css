@@ -1,0 +1,47 @@
+.home{
+    font-family: "Cardo", serif;
+    text-align: center;
+    margin-top: 45px;
+    box-shadow: 1px 1px 10px silver;
+    width: 40%;
+    margin-left: 30%;
+    padding: 10px;
+}
+
+h2{
+    font-size: 30px;
+}
+input{
+    width: 60%;
+    padding: 5px;
+    font-family: "Cardo", serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+button{
+    border: 0px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: "Cardo", serif;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 35%;
+}
+label{
+    border: none;
+    font-family: "Cardo", serif;
+    font-size: 15px;
+    padding: 10px;
+    background-color:#1AC15C;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+a{
+text-decoration: none;
+color: tomato;
+font-size: 15px;
+}
+
